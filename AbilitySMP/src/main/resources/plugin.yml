@@ -1,0 +1,7 @@
+name: AbilitySMP
+version: 1.0
+main: me.abilitysmp.AbilitySMP
+api-version: 1.21
+commands:
+  spawn:
+    description: Teleport to spawn
